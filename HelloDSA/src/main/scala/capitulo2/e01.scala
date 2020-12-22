@@ -4,6 +4,8 @@ object e01 {
 
   def main(args: Array[String]): Unit = {
 
+    //Parametrizando Arrays com Tipos
+
     val greetStrings: Array[String] = new Array[String](3)
     greetStrings(0) = "Hello"
     greetStrings(1) = ", "

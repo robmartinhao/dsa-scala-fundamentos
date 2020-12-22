@@ -1,2 +1,6 @@
+HelloDSA/project/project/
+HelloDSA/project/target/
+HelloDSA/target
 *.class
 *.log
+*.cache
